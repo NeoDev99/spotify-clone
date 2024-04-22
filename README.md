@@ -18,12 +18,12 @@ Spotify clone is a React application for connecting to Spotify's API and perform
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/correctproject.git
+    git clone https://github.com/UmbrellaSkiies/spotify-clone.git
     ```
 
 2. Navigate into the project directory:
     ```cmd
-    cd correctproject
+    cd spotify-clone
     ```
 
 3. Install dependencies:
