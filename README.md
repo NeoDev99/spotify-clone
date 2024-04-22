@@ -1,6 +1,6 @@
-# CorrectProject
+# Spotify-Clone
 
-CorrectProject is a React application for connecting to Spotify's API and performing various actions like playing tracks, viewing user information, and accessing playlists.
+Spotify clone is a React application for connecting to Spotify's API and performing various actions like playing tracks, viewing user information, and accessing playlists.
 
 ## Technologies Used
 
